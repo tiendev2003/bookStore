@@ -76,3 +76,4 @@ erDiagram
         string name
         string bio
     }
+```
