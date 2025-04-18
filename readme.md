@@ -31,7 +31,7 @@ erDiagram
         date end_date
         float cost
         string training_center_id FK  
-        string organization_type  // internal, external, linked
+        string organization_type   
     }
 
     TRAINING_CENTER {
